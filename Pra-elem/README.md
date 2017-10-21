@@ -6,7 +6,7 @@
 
 ``` bash
 # install dependencies
-npm install
+cnpm install
 
 # serve with hot reload at localhost:1018
 npm run dev
@@ -26,5 +26,9 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+技术：
+1、 html + css + js
+2、 webpack配置
+3、 vue组件引用、数据传递
+4、 vue-resource
+5、 布局
