@@ -26,9 +26,9 @@ npm run e2e
 # run all tests
 npm test
 ```
-技术：
-1、 html + css + js
-2、 webpack配置
-3、 vue组件引用、数据传递
-4、 vue-resource
-5、 布局
+技术：<br>
+1、 html + css + js <br>
+2、 webpack配置 <br>
+3、 vue组件引用、数据传递 <br>
+4、 vue-resource <br>
+5、 布局 <br>
