@@ -29,6 +29,6 @@ npm test
 技术：<br>
 1、 html + css + js <br>
 2、 webpack配置 <br>
-3、 vue组件引用、数据传递 <br>
+3、 vue路由、组件引用、数据传递 <br>
 4、 vue-resource <br>
 5、 布局 <br>
